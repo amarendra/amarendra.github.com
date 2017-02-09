@@ -1,0 +1,54 @@
+==================================================================
+https://keybase.io/amarendra
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://amar.im
+  * I am amarendra (https://keybase.io/amarendra) on keybase.
+  * I have a public key ASBaqHCsKkm9TTk4wEKYMu9-5pZwFAEhj-mWU9NYQ1t6QQo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "01205aa870ac2a49bd4d3938c0429832ef7ee696701401218fe99653d358435b7a410a",
+            "host": "keybase.io",
+            "kid": "01205aa870ac2a49bd4d3938c0429832ef7ee696701401218fe99653d358435b7a410a",
+            "uid": "2fb3a443ec4dd2142b76200398da1419",
+            "username": "amarendra"
+        },
+        "service": {
+            "hostname": "amar.im",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.18"
+    },
+    "ctime": 1486609298,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1486609285,
+        "hash": "a29a4c97da2a68f95eda9bdc2184e7aeaffa0c6130b9b65c28fcfc4a76aae143a46e4dd1d05743b9edddb0aae37a660884db0c90c465dc5b8856652d283b980a",
+        "seqno": 851795
+    },
+    "prev": "8b6dfd32d016e6ae0d66c7c9aacb87ef9ce7a45d14bbcb887e0f7a6fa6cdd944",
+    "seqno": 8,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgWqhwrCpJvU05OMBCmDLvfuaWcBQBIY/pllPTWENbekEKp3BheWxvYWTFAu97ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwNWFhODcwYWMyYTQ5YmQ0ZDM5MzhjMDQyOTgzMmVmN2VlNjk2NzAxNDAxMjE4ZmU5OTY1M2QzNTg0MzViN2E0MTBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwNWFhODcwYWMyYTQ5YmQ0ZDM5MzhjMDQyOTgzMmVmN2VlNjk2NzAxNDAxMjE4ZmU5OTY1M2QzNTg0MzViN2E0MTBhIiwidWlkIjoiMmZiM2E0NDNlYzRkZDIxNDJiNzYyMDAzOThkYTE0MTkiLCJ1c2VybmFtZSI6ImFtYXJlbmRyYSJ9LCJzZXJ2aWNlIjp7Imhvc3RuYW1lIjoiYW1hci5pbSIsInByb3RvY29sIjoiaHR0cDoifSwidHlwZSI6IndlYl9zZXJ2aWNlX2JpbmRpbmciLCJ2ZXJzaW9uIjoxfSwiY2xpZW50Ijp7Im5hbWUiOiJrZXliYXNlLmlvIGdvIGNsaWVudCIsInZlcnNpb24iOiIxLjAuMTgifSwiY3RpbWUiOjE0ODY2MDkyOTgsImV4cGlyZV9pbiI6NTA0NTc2MDAwLCJtZXJrbGVfcm9vdCI6eyJjdGltZSI6MTQ4NjYwOTI4NSwiaGFzaCI6ImEyOWE0Yzk3ZGEyYTY4Zjk1ZWRhOWJkYzIxODRlN2FlYWZmYTBjNjEzMGI5YjY1YzI4ZmNmYzRhNzZhYWUxNDNhNDZlNGRkMWQwNTc0M2I5ZWRkZGIwYWFlMzdhNjYwODg0ZGIwYzkwYzQ2NWRjNWI4ODU2NjUyZDI4M2I5ODBhIiwic2Vxbm8iOjg1MTc5NX0sInByZXYiOiI4YjZkZmQzMmQwMTZlNmFlMGQ2NmM3YzlhYWNiODdlZjljZTdhNDVkMTRiYmNiODg3ZTBmN2E2ZmE2Y2RkOTQ0Iiwic2Vxbm8iOjgsInRhZyI6InNpZ25hdHVyZSJ9o3NpZ8RARfzaj33i8+AH6oPEce4g+yLTAWkpaG449aZmphlRhXFEF8FAGWkvukrkD6TPXdR+ymJQSvc5+PX3681f42eBCahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEILmY7fM4+vLMlAO/sKF2SSzl9RmAfiDBeVaOj0GxlI7Ko3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/amarendra
+
+==================================================================
