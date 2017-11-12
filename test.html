@@ -1,18 +1,18 @@
 <!DOCTYPE html>
 <html>
-<body>
+	<body>
+		<p>Click to launch app</p>
+        
+		<button onclick="myFunction()">Click me</button>
 
-<p>Click the button to trigger a function that will output "Hello World" in a p element with id="demo".</p>
-
-<button onclick="myFunction()">Click me</button>
-
-<p id="demo"></p>
-
-<script>
-function myFunction() {
-    document.getElementById("demo").innerHTML = "Hello World";
-}
-</script>
-
-</body>
+		<script>
+			function myFunction() {
+				if (window.PlayWebApp) {
+    				window.PlayWebApp.launchMicroApp(0, 6);
+    			} else {
+    				console.log("No JSInterface exported");
+    			}
+			}
+		</script>
+	</body>
 </html>
