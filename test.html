@@ -2,12 +2,14 @@
 <html>
 	<body>
 		<p>Click to launch app</p>
-        
 		<button onclick="myFunction()">Click me</button>
 
 		<script>
 			function myFunction() {
+				console.log("Button clicked");
+				
 				if (window.PlayWebApp) {
+					console.log("Button clicked");
     				window.PlayWebApp.launchMicroApp(0, 6);
     			} else {
     				console.log("No JSInterface exported");
