@@ -1,4 +1,4 @@
-http://amar.im - My website
+http://amarendra.net - My website
 ===========================
 
 This repository keeps my website's content.
