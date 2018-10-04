@@ -6,9 +6,9 @@ This repository keeps my website's content.
 License
 =======
 
-Do whatever you want to do. I picked CSS from some site and then that's it.
+Free as in whatever license.
 
 Usage
 =====
-I develop the site locally and then push it to this repository. This where it's hosted. You can also host your static sites at [GitHub pages](http://pages.github.com).
+I develop the site locally and then push it to this repository. This is where it's hosted. You can also host your static sites on [GitHub pages](http://pages.github.com).
 
