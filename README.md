@@ -1,5 +1,5 @@
-http://amarendra.net - My website
-===========================
+https://amarendra.net - My website
+==================================
 
 This repository keeps my website's content.
 
