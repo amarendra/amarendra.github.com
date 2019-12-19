@@ -10,5 +10,5 @@ Free as in whatever license.
 
 Usage
 =====
-I develop the site locally and then push it to this repository. This is where it's hosted. You can also host your static sites on [GitHub pages](http://pages.github.com).
+It's just a plain static HTML/css website. It's not using any of those "fancy" static site generators. Hosted on on [GitHub pages](https://pages.github.com).
 
