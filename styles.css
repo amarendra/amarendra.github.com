@@ -58,3 +58,23 @@ ul {
 .right-shift {
     margin-left: 40px;
 }
+
+/* just because people think it is a good idea to delay the title attribute all this unnecessary CSS was written for a mere tooltip */
+a[tooltip] {
+    position: relative;
+}
+
+a[tooltip]:hover:after {
+  content: attr(tooltip);
+  display: inline-block;
+  width: max-content;
+  max-width: 180px;
+  background-color: #c1c1c1;
+  color: black;
+  text-align: center;
+  border-radius: 6px;
+  padding: 5px 5px;
+  position: absolute;
+  z-index: 1;
+  top: 150%;
+}
